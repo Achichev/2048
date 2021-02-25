@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3513;
+package 2048;
 
 /*
  * The class implements the strategy that calculates the best result for the next move
