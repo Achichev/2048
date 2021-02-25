@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3513;
+package 2048;
 
 import java.util.*;
 /*
